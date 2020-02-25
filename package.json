@@ -34,7 +34,7 @@
     }
   },
   "dependencies": {
-    "jsdom": "~0.5.3"
+    "jsdom": "EricRabil/jsdom#0.5.3-nocontextify"
   },
   "devDependencies": {
     "smash": "~0.0.8",
